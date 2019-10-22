@@ -1,0 +1,7 @@
+run with :
+make
+./infin_add
+
+add infinite numbers (positives or negatives)
+
+needed for bistromatic project
